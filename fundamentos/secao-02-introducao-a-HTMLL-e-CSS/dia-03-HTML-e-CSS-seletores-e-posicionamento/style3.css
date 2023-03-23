@@ -4,6 +4,7 @@ h1,p{
 
 li:hover{
     background-color: bisque;
+    transition:0.5s;
 }
 
 li:active{
