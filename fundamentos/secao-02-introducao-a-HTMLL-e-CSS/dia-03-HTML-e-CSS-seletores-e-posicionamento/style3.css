@@ -1,0 +1,18 @@
+h1,p{
+   text-align: center; 
+}
+
+li:hover{
+    background-color: bisque;
+}
+
+li:active{
+    font-family: sans-serif;
+    font-weight: 500;
+    color: green;
+}
+
+ul,ol{
+    text-align: center;
+    list-style: none;
+}
