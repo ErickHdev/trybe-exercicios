@@ -202,7 +202,3 @@ console.log("")
         salario = salario - (((salario*27.5)/100) - 869.36)
     }
     console.log("Salario Liquido: "+ salario)
-    
-    
-
-
